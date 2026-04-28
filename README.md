@@ -105,6 +105,5 @@ Unlike simple voting systems, SmartMess AI learns human behavior over time and i
 \## 👨‍💻 Author
 
 
-
-Sakthivel S M
+shreyas kocheri
 
